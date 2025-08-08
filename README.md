@@ -1,3 +1,4 @@
+<img width="365" height="365" alt="com miniclip eightballpool" src="https://github.com/user-attachments/assets/9fd96651-d3b3-4842-b0ea-f8b980b715de" />
 <p align="center">
   <img src="https://avatars0.githubusercontent.com/u/44036562?s=100&v=4"/> 
 </p>
